@@ -131,7 +131,7 @@ Next.js • Node.js • MongoDB
 
 # 🤝 Let's Connect
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 Email: khaleedahmed985@gmail.com
 
 💼 LinkedIn:
 https://www.linkedin.com/in/mohammed-khaleed-ahmed-phd/
