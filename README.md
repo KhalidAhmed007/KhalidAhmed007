@@ -109,18 +109,6 @@ Next.js • Node.js • MongoDB
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KhalidAhmed007&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidAhmed007&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -146,10 +134,8 @@ Next.js • Node.js • MongoDB
 📧 Email: [your-email@example.com](mailto:your-email@example.com)
 
 💼 LinkedIn:
-https://linkedin.com/in/your-linkedin
+https://www.linkedin.com/in/mohammed-khaleed-ahmed-phd/
 
-🌐 Portfolio:
-https://your-portfolio.com
 
 💻 GitHub:
 https://github.com/KhalidAhmed007
