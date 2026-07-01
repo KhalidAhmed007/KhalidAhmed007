@@ -66,11 +66,10 @@ A production-ready MERN note-sharing platform.
 React • Node.js • Express.js • MongoDB • Tailwind CSS
 
 🔗 Repository:
-(Add Repository Link)
+https://github.com/KhalidAhmed007/NOTESHUB
 
 🌐 Live Demo:
-(Add Live Link)
-
+https://noteshub.khaleedahmed.codes/
 ---
 
 ## 🩺 AI-Based Cervical Spine Stenosis Grading System
