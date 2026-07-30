@@ -70,6 +70,7 @@ https://github.com/KhalidAhmed007/NOTESHUB
 
 🌐 Live Demo:
 https://noteshub.khaleedahmed.codes/
+
 ---
 
 ## 🩺 AI-Based Cervical Spine Stenosis Grading System
@@ -88,6 +89,9 @@ An AI-powered medical imaging platform for cervical spine MRI analysis.
 
 React • FastAPI • TensorFlow • OpenCV • Python
 
+🔗 Repository:
+https://github.com/saif-m7/cervical-stenosis-ai
+
 ---
 
 ## 🚗 Rentease
@@ -104,7 +108,10 @@ A modern Car Rental System.
 
 **Tech Stack**
 
-Next.js • Node.js • MongoDB
+Next.js • Node.js • Express.js • MongoDB • PostgreSQL • JWT
+
+🌐 Live Demo:
+https://rentease.khaleedahmed.codes/
 
 ---
 
@@ -135,7 +142,6 @@ Next.js • Node.js • MongoDB
 💼 LinkedIn:
 https://www.linkedin.com/in/mohammed-khaleed-ahmed-phd/
 
-
 💻 GitHub:
 https://github.com/KhalidAhmed007
 
@@ -145,15 +151,4 @@ https://github.com/KhalidAhmed007
 
 <!--
 **KhalidAhmed007/KhalidAhmed007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
