@@ -1,23 +1,53 @@
-# Hi there 👋, I'm Mohammed Khaleed Ahmed
+<h1 align="center">Mohammed Khaleed Ahmed</h1>
+<h3 align="center">Full-Stack Software Engineer • AI Enthusiast • Building Production-Ready Web & AI Systems</h3>
 
-### Full-Stack Developer • AI Enthusiast • B.Tech Information Technology Student
-
-I enjoy building software that solves real-world problems—from production-ready full-stack web applications to AI-powered systems. My focus is on writing clean, maintainable code while continuously learning modern software engineering practices.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-khaleed-ahmed-phd/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:khaleedahmed985@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://noteshub.khaleedahmed.codes/">
+    <img src="https://img.shields.io/badge/Live-NotesHub-2ea44f?style=flat&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://rentease.khaleedahmed.codes/">
+    <img src="https://img.shields.io/badge/Live-Rentease-2563EB?style=flat&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-* 🎓 Final-year B.Tech student in Information Technology
-* 💻 Passionate about Full-Stack Development and AI
-* 🌱 Currently learning TypeScript, System Design, PostgreSQL, and Cloud Technologies
-* 🧠 Solved 120+ LeetCode problems and actively improving my DSA skills
-* 🎯 Interested in Software Engineering, AI Infrastructure, and Developer Tools
-* 📍 Warangal, India
+I'm a Full-Stack Developer and final-year B.Tech (Information Technology) student passionate about building production-ready web applications and AI-powered systems.
+
+I enjoy taking products from idea to deployment—designing scalable backends, intuitive user interfaces, and deploying applications using modern cloud platforms. My current interests include backend engineering, system design, cloud technologies, and applied AI.
 
 ---
 
-## 🛠️ Tech Stack
+# 🧱 What I Bring
+
+- 🚀 **End-to-end product development** — Build complete applications from database schema design to deployment.
+- ⚙️ **Backend engineering** — REST APIs, JWT Authentication, RBAC, middleware, validation, and scalable Express.js architecture.
+- 🎨 **Modern frontend development** — Responsive interfaces using React, Next.js, Tailwind CSS, and Vite.
+- 🤖 **Applied AI & Machine Learning** — Built and contributed to deep-learning systems using TensorFlow, Keras, OpenCV, and FastAPI.
+- 📈 **Problem-solving mindset** — Solved **120+ LeetCode problems** while continuously improving DSA and System Design.
+- 🌱 **Continuous learner** — Currently exploring TypeScript, PostgreSQL, Docker, Cloud Infrastructure, and AI Agents.
+
+---
+
+# 🏆 Highlights
+
+- 💯 Solved **50+ LeetCode** problems
+- 🚀 Built and deployed multiple full-stack applications
+- 🌍 Production deployments on **Vercel** and **Render**
+- 🤝 Contributed to an AI-powered medical imaging project
+- 📚 Continuously learning Backend Engineering, AI, and System Design
+
+---
+
+# 🛠️ Tech Stack
 
 ### Languages
 
@@ -25,130 +55,151 @@ Java • JavaScript • Python • SQL • HTML • CSS
 
 ### Frontend
 
-React • Tailwind CSS • Vite • Next.js (Learning)
+React • Next.js • Tailwind CSS • Vite
 
 ### Backend
 
 Node.js • Express.js • REST APIs • JWT Authentication
 
-### Database
+### Databases
 
-MongoDB • PostgreSQL (Learning)
+MongoDB • PostgreSQL *(Learning)*
 
 ### AI / ML
 
 TensorFlow • Keras • OpenCV • NumPy • FastAPI
 
-### Tools
+### Tools & Cloud
 
-Git • GitHub • Postman • VS Code • Docker (Learning) • Cloudinary • Vercel • Render
+Git • GitHub • Docker *(Learning)* • Postman • Cloudinary • Vercel • Render
 
 ---
 
 # 🚀 Featured Projects
 
-## 📝 NotesHub
+## 📝 NotesHub — Full-Stack Notes Sharing Platform
 
-A production-ready MERN note-sharing platform.
+A production-ready MERN platform enabling students to upload, discover, organize, and manage academic notes through secure authentication, cloud-based file storage, and role-based administration.
 
-### Features
+### Highlights
 
-* JWT Authentication
-* Secure File Uploads
-* Search & Filtering
-* Ratings
-* Admin Dashboard
-* Cloudinary Integration
-* Responsive UI
+- 🔐 JWT Authentication & Protected Routes
+- ☁️ Secure Cloudinary File Uploads
+- 🔎 Search, Filtering & Ratings
+- 👨‍💼 Admin Dashboard
+- 📱 Fully Responsive UI
 
 **Tech Stack**
 
 React • Node.js • Express.js • MongoDB • Tailwind CSS
 
-🔗 Repository:
+🔗 Repository  
 https://github.com/KhalidAhmed007/NOTESHUB
 
-🌐 Live Demo:
+🌐 Live Demo  
 https://noteshub.khaleedahmed.codes/
+
+---
+
+## 🚗 Rentease — Full-Stack Car Rental Platform
+
+A production-ready car rental platform that models real-world booking workflows with secure authentication, vehicle management, availability tracking, payment integration, and an admin dashboard.
+
+### Highlights
+
+- 🔐 JWT Authentication
+- 🚗 Vehicle Booking & Availability
+- 💳 Payment Integration
+- 👨‍💼 Admin Dashboard
+- 📱 Responsive Design
+
+**Tech Stack**
+
+Next.js • TypeScript • Node.js • Express.js • MongoDB • PostgreSQL • JWT
+
+🔗 Repository
+
+https://github.com/KhalidAhmed007/RENTEASE---A-CAR-RENTAL-SYSTEM
+
+🌐 Live Demo
+
+https://rentease.khaleedahmed.codes/
 
 ---
 
 ## 🩺 AI-Based Cervical Spine Stenosis Grading System
 
-An AI-powered medical imaging platform for cervical spine MRI analysis.
+A collaborative AI-powered medical imaging platform for automated cervical spine stenosis grading from MRI scans.
 
-### Features
+### Highlights
 
-* MRI Image Upload
-* AI-Based Disease Grading
-* FastAPI Backend
-* Deep Learning Model Integration
-* Interactive Visualization
+- 🧠 FastAPI Backend
+- 🤖 TensorFlow/Keras Model Integration
+- 🖼️ MRI Image Processing using OpenCV
+- 📊 Interactive React-based Visualization
 
 **Tech Stack**
 
 React • FastAPI • TensorFlow • OpenCV • Python
 
-🔗 Repository:
+🔗 Repository
+
 https://github.com/saif-m7/cervical-stenosis-ai
 
 ---
 
-## 🚗 Rentease
-
-A modern Car Rental System.
-
-### Features
-
-* Authentication
-* Car Booking
-* Payment Integration
-* Admin Dashboard
-* Responsive Design
-
-**Tech Stack**
-
-Next.js • Node.js • Express.js • MongoDB • PostgreSQL • JWT
-
-🌐 Live Demo:
-https://rentease.khaleedahmed.codes/
-
----
-
-# 🔥 GitHub Streak
+# 📊 GitHub Analytics
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=KhalidAhmed007&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidAhmed007&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
 
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=KhalidAhmed007&theme=github-dark&hide_border=true"/>
+</p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhalidAhmed007&theme=github-dark"/>
 </p>
 
 ---
 
-# 🎯 Current Focus
+# 💻 Coding Profiles
 
-* Building production-ready full-stack applications
-* Learning AI Agent development
-* Improving System Design skills
-* Contributing to Open Source
-* Preparing for Software Engineering Internships (Summer 2027)
+- 🔥 LeetCode: https://leetcode.com/u/MOHAMMED_KHALEED_AHMED
+- 💼 GitHub: https://github.com/KhalidAhmed007
+
+---
+
+# 🎯 Currently Learning
+
+- Backend Engineering
+- TypeScript
+- PostgreSQL
+- Cloud Technologies
+- AI Agent Development
+- Open Source Contributions
 
 ---
 
 # 🤝 Let's Connect
 
-📧 Email: khaleedahmed985@gmail.com
+📧 **Email**  
+khaleedahmed985@gmail.com
 
-💼 LinkedIn:
+💼 **LinkedIn**  
 https://www.linkedin.com/in/mohammed-khaleed-ahmed-phd/
 
-💻 GitHub:
+💻 **GitHub**  
 https://github.com/KhalidAhmed007
 
 ---
 
-> "Great software is built by continuously learning, shipping, and improving."
+<p align="center">
+<i>"Great software is built by continuously learning, shipping, and improving."</i>
+</p>
 
-<!--
-**KhalidAhmed007/KhalidAhmed007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=KhalidAhmed007&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
