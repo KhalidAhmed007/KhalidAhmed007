@@ -1,156 +1,138 @@
-<h1 align="center">Hi, I'm Mohammed Khaleed Ahmed 👋</h1>
+<h1 align="center">Mohammed Khaleed Ahmed</h1>
 
 <p align="center">
-  <a href="https://github.com/KhalidAhmed007">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=640&lines=Full-Stack+Software+Engineer;Building+Production-Ready+Web+%26+AI+Systems;Backend+%7C+System+Design+%7C+Applied+AI" alt="Typing intro" />
-  </a>
+  <b>Full-Stack Software Engineer</b> · Backend & Applied AI<br/>
+  I build and ship production-ready web applications and AI-powered systems, from database schema to live deployment.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-khaleed-ahmed-phd/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:khaleedahmed985@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/MOHAMMED_KHALEED_AHMED"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <a href="https://noteshub.khaleedahmed.codes/"><img src="https://img.shields.io/badge/Live-NotesHub-2ea44f?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="https://rentease.khaleedahmed.codes/"><img src="https://img.shields.io/badge/Live-Rentease-2563EB?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=KhalidAhmed007&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <a href="mailto:khaleedahmed985@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/MOHAMMED_KHALEED_AHMED"><img src="https://img.shields.io/badge/LeetCode-120%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-Final-year **B.Tech (Information Technology)** student and full-stack developer who enjoys taking products from **idea → database schema → API → UI → deployment**. I care about clean backend architecture, secure authentication, and interfaces that feel good to use, and I'm increasingly drawn to applied AI and cloud infrastructure.
-
-> 🎯 **Open to:** Software Engineer / Backend / Full-Stack roles and internships.
-
----
-
-## 🧱 What I Bring
+## Snapshot
 
 | | |
 |---|---|
-| 🚀 **End-to-end delivery** | Schema design, REST APIs, responsive UI, and cloud deployment |
-| ⚙️ **Backend engineering** | JWT auth, RBAC, middleware, request validation, structured Express.js architecture |
-| 🎨 **Modern frontend** | React, Next.js, Tailwind CSS, and Vite |
-| 🤖 **Applied AI/ML** | Deep-learning pipelines with TensorFlow, Keras, OpenCV, and FastAPI |
-| 🧠 **Problem solving** | 120+ LeetCode problems; ongoing DSA and system design practice |
+| **Currently** | Final-year B.Tech, Information Technology |
+| **Looking for** | Software Engineer, Backend, and Full-Stack roles (full-time and internships) |
+| **Strengths** | REST API design, authentication & authorization, relational and document data modelling, cloud deployment |
+| **Also work with** | Deep learning pipelines: TensorFlow, Keras, OpenCV, FastAPI |
+| **Live work** | [NotesHub](https://noteshub.khaleedahmed.codes/) · [Rentease](https://rentease.khaleedahmed.codes/) |
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,py,html,css&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,fastapi,opencv,numpy&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel&theme=dark" />
-</p>
+I'm a full-stack developer who treats projects as products, not demos. Every application below is deployed and publicly accessible, with real authentication, role-based access, cloud file storage, and admin tooling.
 
-<details>
-<summary><b>Full breakdown</b></summary>
-
-| Category | Technologies |
-|---|---|
-| **Languages** | Java, JavaScript, TypeScript, Python, SQL, HTML, CSS |
-| **Frontend** | React, Next.js, Tailwind CSS, Vite |
-| **Backend** | Node.js, Express.js, REST APIs, JWT Authentication |
-| **Databases** | MongoDB, PostgreSQL *(learning)* |
-| **AI / ML** | TensorFlow, Keras, OpenCV, NumPy, FastAPI |
-| **Tools & Cloud** | Git, GitHub, Postman, Cloudinary, Vercel, Render, Docker *(learning)* |
-
-</details>
+I'm strongest on the backend (Node.js and Express.js APIs, JWT-based auth, RBAC, validation, and clean project structure), and I pair it with modern React and Next.js frontends. I've also contributed to a deep-learning medical imaging system, so I'm comfortable working where web engineering meets machine learning.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📝 [NotesHub](https://github.com/KhalidAhmed007/NOTESHUB) — Notes Sharing Platform
-A MERN platform where students upload, discover, organize, and manage academic notes, with secure auth, cloud file storage, and role-based administration.
+### NotesHub: Notes Sharing Platform
+**[Live Demo](https://noteshub.khaleedahmed.codes/) · [Source Code](https://github.com/KhalidAhmed007/NOTESHUB)**
 
-- 🔐 JWT authentication and protected routes
-- ☁️ Secure file uploads via Cloudinary
-- 🔎 Search, filtering, and ratings
-- 👨‍💼 Admin dashboard for moderation
-- 📱 Fully responsive UI
+A MERN platform where students upload, discover, and organize academic notes.
 
-`React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+- **Security:** JWT authentication, protected routes, and role-based admin access
+- **File handling:** cloud storage through Cloudinary instead of storing files on the server
+- **Discovery:** search, filtering, and a ratings system
+- **Operations:** admin dashboard for managing content and users
+- **Delivery:** fully responsive UI, deployed to production
 
-[🌐 Live Demo](https://noteshub.khaleedahmed.codes/) • [📂 Repository](https://github.com/KhalidAhmed007/NOTESHUB)
+`React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Cloudinary`
+
+<!-- Tip: add a screenshot or GIF here:  ![NotesHub](path/to/screenshot.png) -->
 
 ---
 
-### 🚗 [Rentease](https://github.com/KhalidAhmed007/RENTEASE---A-CAR-RENTAL-SYSTEM) — Car Rental Platform
-A car rental system modelling real-world booking workflows: authentication, vehicle management, availability tracking, payments, and an admin dashboard.
+### Rentease: Car Rental Platform
+**[Live Demo](https://rentease.khaleedahmed.codes/) · [Source Code](https://github.com/KhalidAhmed007/RENTEASE---A-CAR-RENTAL-SYSTEM)**
 
-- 🔐 JWT authentication
-- 🚗 Vehicle booking with availability tracking
-- 💳 Payment integration
-- 👨‍💼 Admin dashboard
-- 📱 Responsive design
+A rental system that models real-world booking workflows end to end.
+
+- **Booking engine:** vehicle listings with availability tracking
+- **Payments:** integrated payment flow
+- **Security:** JWT authentication with separate user and admin experiences
+- **Operations:** admin dashboard for vehicle and booking management
+- **Stack depth:** typed frontend with TypeScript, Node.js/Express API, and database layer
 
 `Next.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `PostgreSQL`
 
-[🌐 Live Demo](https://rentease.khaleedahmed.codes/) • [📂 Repository](https://github.com/KhalidAhmed007/RENTEASE---A-CAR-RENTAL-SYSTEM)
+<!-- Tip: add a screenshot or GIF here:  ![Rentease](path/to/screenshot.png) -->
 
 ---
 
-### 🩺 [Cervical Spine Stenosis Grading](https://github.com/saif-m7/cervical-stenosis-ai) — AI Medical Imaging
-A collaborative project that automatically grades cervical spine stenosis from MRI scans.
+### AI-Based Cervical Spine Stenosis Grading
+**[Source Code](https://github.com/saif-m7/cervical-stenosis-ai)** · *Collaborative project*
 
-- 🧠 FastAPI backend serving a TensorFlow/Keras model
-- 🖼️ MRI preprocessing with OpenCV
-- 📊 Interactive React visualization of results
+An AI system that automatically grades cervical spine stenosis from MRI scans.
 
-`React` `FastAPI` `TensorFlow` `OpenCV` `Python`
+- **Inference API:** FastAPI backend serving a TensorFlow/Keras model
+- **Image pipeline:** MRI preprocessing with OpenCV
+- **Visualization:** interactive React interface to review model output
 
-[📂 Repository](https://github.com/saif-m7/cervical-stenosis-ai)
+`React` `FastAPI` `TensorFlow` `Keras` `OpenCV` `Python`
 
 ---
 
-## 📊 GitHub Stats
+## Technical Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhalidAhmed007&show_icons=true&theme=github_dark&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidAhmed007&layout=compact&theme=github_dark&hide_border=true" height="170" />
+| Area | Technologies |
+|---|---|
+| **Languages** | Java · JavaScript · TypeScript · Python · SQL |
+| **Frontend** | React · Next.js · Tailwind CSS · Vite · HTML/CSS |
+| **Backend** | Node.js · Express.js · REST APIs · JWT · RBAC |
+| **Databases** | MongoDB · PostgreSQL |
+| **AI / ML** | TensorFlow · Keras · OpenCV · NumPy · FastAPI |
+| **Tools & Deployment** | Git · GitHub · Postman · Cloudinary · Vercel · Render · Docker *(in progress)* |
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,react,nextjs,tailwind,nodejs,express,mongodb,postgres,tensorflow,fastapi,git,docker&theme=dark" />
 </p>
 
+---
+
+## Engineering Practice
+
+- **Problem solving:** 120+ LeetCode problems, with steady work on data structures, algorithms, and system design
+- **Ship to production:** projects are deployed on Vercel and Render, not left on localhost
+- **Secure by default:** authentication, authorization, and input validation are built in from the start
+- **Version control:** all work is in public GitHub repositories
+
+---
+
+## GitHub Activity
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KhalidAhmed007&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KhalidAhmed007&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidAhmed007&layout=compact&theme=github_dark&hide_border=true" height="160" />
 </p>
 
-<details>
-<summary><b>Contribution activity graph</b></summary>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhalidAhmed007&theme=github-dark&hide_border=true" />
-</p>
-</details>
+---
+
+## Currently Deepening
+
+TypeScript · PostgreSQL · Docker & cloud infrastructure · System design · AI agent development · Open-source contributions
 
 ---
 
-## 🌱 Currently Exploring
+## Get in Touch
 
-- 🔷 TypeScript and type-safe backends
-- 🐘 PostgreSQL and relational data modelling
-- 🐳 Docker and cloud infrastructure
-- 🤖 AI agent development
-- 🌍 Open-source contributions
+I'm actively looking for opportunities and happy to chat about engineering roles or collaborations.
 
----
-
-## 🤝 Let's Connect
-
-I'm always happy to talk about backend engineering, AI, or collaborating on something interesting.
-
-📧 [khaleedahmed985@gmail.com](mailto:khaleedahmed985@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/mohammed-khaleed-ahmed-phd/)  
-💻 [GitHub](https://github.com/KhalidAhmed007)  
-🔥 [LeetCode](https://leetcode.com/u/MOHAMMED_KHALEED_AHMED)
-
----
+| | |
+|---|---|
+| **Email** | [khaleedahmed985@gmail.com](mailto:khaleedahmed985@gmail.com) |
+| **LinkedIn** | [mohammed-khaleed-ahmed-phd](https://www.linkedin.com/in/mohammed-khaleed-ahmed-phd/) |
+| **GitHub** | [KhalidAhmed007](https://github.com/KhalidAhmed007) |
+| **LeetCode** | [MOHAMMED_KHALEED_AHMED](https://leetcode.com/u/MOHAMMED_KHALEED_AHMED) |
 
 <p align="center">
   <i>"Great software is built by continuously learning, shipping, and improving."</i>
